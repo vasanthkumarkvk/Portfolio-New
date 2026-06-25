@@ -86,6 +86,7 @@ export default function Hero() {
               </a>
             </div>
 
+
             {/* Social links */}
             <div className="flex items-center gap-4 pt-2">
               <a href="https://github.com/vasanthkumarkvk" target="_blank" rel="noopener noreferrer" className="flex items-center gap-1.5 text-sm text-gray-500 hover:text-gray-900 transition-colors">
